@@ -7,10 +7,10 @@ Interactive Power BI dashboard analyzing 17 seasons of IPL cricket — 1,095 mat
 ## Dashboard Preview
 
 ### Home — KPI Overview
-![Dashboard Home](screenshots/dashboard.png)
+![Dashboard Home](/dashboard.png)
 
 ### IPL Title Winners (2008–2024)
-![Title Winners](screenshots/title_winners.png)
+![Title Winners](/title_winners.png)
 
 ### Top 10 Run Scorers
 ![Top Batsmen](screenshots/top_10_batsmen.png)
