@@ -13,13 +13,13 @@ Interactive Power BI dashboard analyzing 17 seasons of IPL cricket — 1,095 mat
 ![Title Winners](/title_winners.png)
 
 ### Top 10 Run Scorers
-![Top Batsmen](screenshots/top_10_batsmen.png)
+![Top Batsmen](/top_10_batsmen.png)
 
 ### Toss Analysis
-![Toss Analysis](screenshots/toss_analysis.png)
+![Toss Analysis](/toss_analysis.png)
 
 ### Top 10 Bowlers — Wickets vs Economy
-![Bowler Analysis](screenshots/bowler_analysis.png)
+![Bowler Analysis](/bowler_analysis.png)
 
 ---
 
